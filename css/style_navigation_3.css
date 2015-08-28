@@ -1,0 +1,45 @@
+nav{
+  font-family: Helvetica, serif;
+  width: 40%;
+  margin: 0 auto;
+  border-radius: 7px;
+  border: 3px solid red;
+  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#f37913+5,e1502a+100,2989d8+100,207cca+100,207cca+100 */
+background: #f37913; /* Old browsers */
+background: -moz-linear-gradient(top,  #f37913 5%, #e1502a 100%, #2989d8 100%, #207cca 100%, #207cca 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(5%,#f37913), color-stop(100%,#e1502a), color-stop(100%,#2989d8), color-stop(100%,#207cca), color-stop(100%,#207cca)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top,  #f37913 5%,#e1502a 100%,#2989d8 100%,#207cca 100%,#207cca 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top,  #f37913 5%,#e1502a 100%,#2989d8 100%,#207cca 100%,#207cca 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top,  #f37913 5%,#e1502a 100%,#2989d8 100%,#207cca 100%,#207cca 100%); /* IE10+ */
+background: linear-gradient(to bottom,  #f37913 5%,#e1502a 100%,#2989d8 100%,#207cca 100%,#207cca 100%); /* W3C */
+}
+
+ul{
+  list-style: none;
+  margin: 0;
+  display: block;
+  text-align: center;
+  /* padding: 10px; */
+}
+
+li{
+  display: inline-block;
+  /* margin: 5px 10px 5px 5px; */
+  border-right: 1px solid red;
+}
+
+li:last-child{
+  border-right: none;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+  display: block;
+  font-size: 1em;
+  text-shadow: 0 -2px 2px rgba(0, 0, 0, 0.2);
+  padding: 0px;
+  width: 25%;
+  padding: 17px 40px 17px 40px;
+  box-shadow: none;
+}

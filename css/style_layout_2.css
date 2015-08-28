@@ -19,32 +19,32 @@
 }
 #purple{
 	background-color: #8b7bbb;
-	height: 310px;  
-	width: 32%;
-  float: left;
-  margin: 10px 0px 10px 10px;
+	height: 300px;  
+	width: 30%;
+  	float: left;
+ 	 margin: 15px 0px 15px 5%;
 }
 #orange{
 	background-color: #e96526;
-	height: 310px;  
-	width: 32%;
+	height: 300px;  
+	width: 30%;
 	float: left;
-	margin: 10px 0 10px 0;
+	margin: 15px 0 15px 0;
 }
 
 #green{
 	background-color: #3fbb4d;
-	height: 310px;  
-	width: 32%;
+	height: 300px;  
+	width: 30%;
 	float: left;
-	margin: 10px 10px 0 0;
+	margin: 15px 0px 15px 0px;
 }
 #pink{
 	background-color: #f094c1;
-	height: 310px;  
-	width: 96%;
-  float: left;
-	margin: 0 0 0 10px;
+	height: 300px;  
+	width: 90%;
+  	float: left;
+	margin: 0px 0px 15px 5%;
 }
 
 
