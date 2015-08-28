@@ -1,0 +1,57 @@
+.wrapper{
+	width: 770px;
+	margin: 0 auto;
+}
+
+.red{
+	background-color: #f60005;
+	height: 100px;
+	clear: both;
+	margin-bottom: 20px;
+}
+
+#light-blue{
+	background-color: #49baf2;
+	height: 650px;
+	width: 66.666%;
+	float: left;
+	margin-bottom: 20px;
+}
+#purple{
+	background-color: #8b7bbb;
+	height: 310px;  
+	width: 32%;
+  float: left;
+  margin: 10px 0px 10px 10px;
+}
+#orange{
+	background-color: #e96526;
+	height: 310px;  
+	width: 32%;
+	float: left;
+	margin: 10px 0 10px 0;
+}
+
+#green{
+	background-color: #3fbb4d;
+	height: 310px;  
+	width: 32%;
+	float: left;
+	margin: 10px 10px 0 0;
+}
+#pink{
+	background-color: #f094c1;
+	height: 310px;  
+	width: 96%;
+  float: left;
+	margin: 0 0 0 10px;
+}
+
+
+#yellow{
+	background-color: #f8ff28;
+	height: 650px;
+	width: 33.333%;
+	float: left;
+	margin-bottom: 5px 5px 5px 5px;
+}

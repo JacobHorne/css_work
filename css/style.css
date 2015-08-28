@@ -1,0 +1,39 @@
+h1{
+	color: #ff0000;
+	font-weight: normal;
+}
+
+p{
+	background: yellow;
+	position: relative;
+	top: 40px;
+}
+
+#p_1{
+	background: blue;
+	color: white;
+}
+
+.wrapper{
+	width: 50%;
+	margin: 30px auto;
+	border: 1px solid red;
+	padding: 5%;
+}
+
+.w1 h1{
+	color: orange;
+}
+
+.w2 section p {
+}
+
+.w1 a{
+
+}
+
+
+
+body{
+    background: white;
+}
